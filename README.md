@@ -9,7 +9,7 @@ Just a simple api to generate fantasy game type cards. Made this to play around 
  ```
  npm install
  ```
-- run sequel migration
+- run postgres migration
  ```
  sequelize db:migrate
  ```
